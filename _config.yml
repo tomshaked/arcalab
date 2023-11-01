@@ -3,7 +3,7 @@
 # --------------------
 
 ## uncomment to deploy
-# baseurl: "/arcalab-site"
+# baseurl: "/arcalab"
 # url: "https://tomshaked.github.io"
 
 permalink: pretty

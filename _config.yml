@@ -3,8 +3,8 @@
 # --------------------
 
 ## uncomment to deploy
-# baseurl: "/arcalab"
-# url: "https://tomshaked.github.io"
+baseurl: "/arcalab"
+url: "https://tomshaked.github.io"
 
 permalink: pretty
 markdown: kramdown
